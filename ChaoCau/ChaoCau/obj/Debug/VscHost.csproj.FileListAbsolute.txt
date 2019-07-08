@@ -1,0 +1,13 @@
+D:\Code\ChaoCau\ChaoCau\bin\Debug\VsHost32.exe.exe.config
+D:\Code\ChaoCau\ChaoCau\bin\Debug\VsHost32.exe.exe.manifest
+D:\Code\ChaoCau\ChaoCau\bin\Debug\VsHost32.exe.application
+D:\Code\ChaoCau\ChaoCau\bin\Debug\VsHost32.exe.exe
+D:\Code\ChaoCau\ChaoCau\bin\Debug\VsHost32.exe.pdb
+D:\Code\ChaoCau\ChaoCau\obj\Debug\ChaoCau.Form1.resources
+D:\Code\ChaoCau\ChaoCau\obj\Debug\WindowsApplicationSystem.Properties.Resources.resources
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VscHost.csproj.GenerateResource.cache
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VscHost.csproj.CoreCompileInputs.cache
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VsHost32.exe.exe.manifest
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VsHost32.exe.application
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VsHost32.exe.exe
+D:\Code\ChaoCau\ChaoCau\obj\Debug\VsHost32.exe.pdb
